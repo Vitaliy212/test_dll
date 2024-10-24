@@ -1,0 +1,1 @@
+{"ModelProperties":{"Weather":{"water_temperature":16,"air_temperature":18,"humidity":47,"wind_velocity":0.8},"Parameters":{"type_activities":12,"sub_type_activities":0,"intensity":230,"duration":120}},"Immersion_level":["0","1","1","1","1","1","1","1"],"Clothes":["0","0","0","0","0","0","0","0"],"serverCommand":{"command":"get_model_properties","from_android":true}}

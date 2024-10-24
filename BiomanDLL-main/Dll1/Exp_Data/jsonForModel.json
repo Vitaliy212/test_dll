@@ -1,0 +1,21 @@
+{
+  "ModelProporties": {
+    "Parameters": {
+      "pace": 2,
+      "duration": 2,
+      "distance": 3,
+      "downhill": 0,
+      "sub_type_activities": 0,
+      "type_activities": 0
+    },
+    "Weather": {
+      "Weather": {
+        "wind_velocity": 2,
+        "humidity": 90,
+        "pressure": 0,
+        "wind_direction": 130,
+        "air_temperature": 20
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"ModelProperties":{"Weather":{"air_temperature":35,"humidity":50,"wind_velocity":1},"Parameters":{"type_activities":0,"sub_type_activities":0,"speed":5,"duration":30,"intensity":300}},"personInfo":{"id":53,"gender":2,"height":190,"weight":96},"Clothes":["0","3","3","0","0","3","0","93"],"serverCommand":{"command":"get_model_properties","from_android":true}}
